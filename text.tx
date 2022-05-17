@@ -1,0 +1,7 @@
+onclick="document.querySelector('.newsletter').style.display='block';"
+
+
+function toggle(){
+    var newsletter = document.querySelector('.newsletter');
+    newsletter.style.display='block';
+  }
